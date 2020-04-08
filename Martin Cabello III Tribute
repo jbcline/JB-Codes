@@ -1,0 +1,31 @@
+<div id="main">
+
+  <h1 id="title"> Martin Cabello III </h1>
+  <h2> Published Author: Your Spark of Light - The Quantum Mechanics of Human Creation </h2>
+  
+  <div id="img-div"> 
+    <img id="image" src="https://everipedia-storage.s3.amazonaws.com/ProfilePicture/lang_en/martin-cabello-iii/mainphoto_medium.webp" alt="Martin Cabello IG Profile Photo"> </img>
+  
+  <p id="img-caption"> After two decades of fostering and helping sexually exploited women and children, Martin came onto the social media scene to share with his rapidly growing following the benefits of fasting, ketosis, multivitamins, probiotics, and cold water therapy. </p>
+  
+  <p id="tribute-info"> Martin was born with autism, savant syndrome, and synesthesia - allowing him to percieve things others cannot. His abilities allowed him to study and retain information pertaining to quantum physics that prove the existence of the god both science and religions talk about, as well as providing his followers with practical and long forgotten ways of healing the body of just about every condition. <br><br>
+    
+He proves that by eliminating sugar/carbohydrates from the diet, fasting, and getting the body into a ketogenic state a person will go through neurogenisis, autophogy, and apoptosis. This essentially means that the brain will repair itself, grow new neurons, and kill off old and cancerous cells. Not only does this improve longevity, but also makes a person smarter, improves aesthetics, memory, traumatic brain injuries, etc... He goes on to discuss the fact that fruits and vegetables are toxic. Unlike the toxic chemicals in animal products, fruits and veggies contain sugar which allows the toxins to be absorbed by the body, and instead of eating plants to get their nutrients people can simply take a multivitamin without the contaminated sugar. A good teacher points and a great student blazes the path. We can watch Martin's daily activities on his instagram and how he gets himself into ketosis. There are several ways. Fasting from all food, fasting from sugar, exercising using High Intensity Interval Training which allows a person to consume more carbs and still be in ketosis. Furthermore, HIIT training is used by the military to create an awakening in their recruits. It builds up acid in the body and in turn gets the person deeper into ketosis than if they had sat still all day. This has been misconstrued by the general public to make people think LSD or other psychedelics cause an awakening when in reality they are neurotoxic and kill brain cells. I could continue to go on about this man's findings, but I'd rather share with you his personal page: </p> </div>
+  
+<a href="https://www.instagram.com/ti_me_to_mass_so_i_exist/?hl=en" target="_blank" id="tribute-link"> For Martin's Instagram Page </a>
+
+body{
+  text-align: center;
+  background-color: grey;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+
+#img-caption {
+  font-size: 20px;
+}
+
+</div>
